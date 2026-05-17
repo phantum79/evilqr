@@ -1,7 +1,6 @@
-# Let's create a highly professional README.md file for the user's project.
 # The project is an Express.js server that syncs QR codes using Long Polling, tailored for Render.com deployment.
 
-readme_content = """# QR Code Sync Server (Long Polling)
+# QR Code Sync Server (Long Polling)
 
 A professional, lightweight, and high-performance **Express.js** backend built to handle real-time QR code synchronization between a browser extension (or external source) and a frontend application using **Long Polling architecture**. 
 
